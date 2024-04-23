@@ -8,7 +8,7 @@
 Clone the project
 
 ```bash
-  https://github.com/ritik177/Marmeto-Assignment.git
+  https://github.com/ritik177/Coding-Assessment-L2-Marmeto.git
 ```
 
 Go to the project directory
